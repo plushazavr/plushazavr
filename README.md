@@ -19,7 +19,7 @@ I'm a beginner web-developer
 
 ### Contact me
 
-<a href="https://t.me/plushazavr" target="blank"><img align="center" src="https://github.com/plushazavr/IMG/blob/3f8472985f47b6278b2782f6d98f3e76a0ba84b6/telegram.svg" alt="" height="40" width="40" /></a>
+<a href="https://t.me/plushazavr" target="blank" target="blank"><img align="center" src="https://github.com/plushazavr/IMG/blob/3f8472985f47b6278b2782f6d98f3e76a0ba84b6/telegram.svg" alt="" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/ekaterina-kazantseva/" target="blank"><img align="center" src="https://github.com/plushazavr/IMG/blob/3f8472985f47b6278b2782f6d98f3e76a0ba84b6/linkedin.svg" alt="" height="40" width="40" /></a> 
 <a href="mailto: dr.kazantseva.ekaterina@gmail.com" target="blank"><img align="center" src="https://github.com/plushazavr/IMG/blob/3f8472985f47b6278b2782f6d98f3e76a0ba84b6/mail.svg" alt="" height="40" width="40" /></a>
 
