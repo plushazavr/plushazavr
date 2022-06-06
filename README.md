@@ -33,11 +33,14 @@
 * [MESTO](https://github.com/plushazavr/mesto): Interactive page where you can add photos, delete them and like them
 * [WEBOVIO](https://github.com/plushazavr/Webovio): Landing page that can showcase your team's work
 
+### My stats 
+![Katya's GitHub stats](https://github-readme-stats.vercel.app/api?username=plushazavr&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plushazavr&layout=compact&theme=tokyonight)](https://github.com/plushazavr/github-readme-stats)
+
 ### Contact me
 
 <a href="https://t.me/plushazavr" target="blank" target="_blank"><img align="center" src="https://github.com/plushazavr/IMG/blob/3f8472985f47b6278b2782f6d98f3e76a0ba84b6/telegram.svg" alt="" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/ekaterina-kazantseva/" target="_blank"><img align="center" src="https://github.com/plushazavr/IMG/blob/3f8472985f47b6278b2782f6d98f3e76a0ba84b6/linkedin.svg" alt="" height="40" width="40" /></a> 
 <a href="mailto: dr.kazantseva.ekaterina@gmail.com" target="_blank"><img align="center" src="https://github.com/plushazavr/IMG/blob/3f8472985f47b6278b2782f6d98f3e76a0ba84b6/mail.svg" alt="" height="40" width="40" /></a>
 
-![Katya's GitHub stats](https://github-readme-stats.vercel.app/api?username=plushazavr&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plushazavr&layout=compact&theme=tokyonight)](https://github.com/plushazavr/github-readme-stats)
+
