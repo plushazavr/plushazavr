@@ -2,6 +2,13 @@
 ## My name is Katya
 I'm a beginner web-developer
 
+### 📖My studies
+* 2021-2022, Y.Praktikum, "Web-developer"
+
+* 2022, Udemy, "Front End Web Development Ultimate Course 2022"
+
+* 2022, Stepik, "Web Development for Beginners: HTML and CSS"
+
 *My way: from doctor to programmer. I study all my life.*
 
 >My motto is to be stronger than yesterday, if I have to I’ll be stronger than half a day ago, even a minute ago! 💪🏻
