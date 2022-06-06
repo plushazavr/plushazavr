@@ -1,6 +1,8 @@
 ## ✌🏻😎 Hi there!
-## My name is Katya
-I'm a beginner web-developer
+
+### My name is Katya.
+
+### *I'm a beginner web-developer*
 
 *My way: from doctor to programmer. I study all my life.*
 
