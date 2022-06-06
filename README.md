@@ -1,6 +1,4 @@
-## ✌🏻😎 Hi there!
-
-### My name is Katya.
+## ✌🏻😎 Hi there! My name is Katya
 
 ### *I'm a beginner web-developer*
 
