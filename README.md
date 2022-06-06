@@ -2,6 +2,12 @@
 ## My name is Katya
 I'm a beginner web-developer
 
+*My way: from doctor to programmer. I study all my life.*
+
+>My motto is to be stronger than yesterday, if I have to I’ll be stronger than half a day ago, even a minute ago! 💪🏻
+
+***
+
 ### 📖My studies
 * 2021-2022, Y.Praktikum, "Web-developer"
 
@@ -9,10 +15,6 @@ I'm a beginner web-developer
 
 * 2022, Stepik, "Web Development for Beginners: HTML and CSS"
 
-*My way: from doctor to programmer. I study all my life.*
-
->My motto is to be stronger than yesterday, if I have to I’ll be stronger than half a day ago, even a minute ago! 💪🏻
-***
 ### My technology stack
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="40" height="40" >&nbsp;
