@@ -3,6 +3,7 @@
 I'm a beginner web-developer
 
 *My way: from doctor to programmer. I study all my life.*
+
 >My motto is to be stronger than yesterday, if I have to I’ll be stronger than half a day ago, even a minute ago! 💪🏻
 ***
 ### My technology stack
@@ -16,6 +17,12 @@ I'm a beginner web-developer
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" width="40" height="40">&nbsp;
+
+### My project
+
+* [HOW TO LEARN](https://github.com/plushazavr/how-to-learn-main): Landing page about effective approaches to learning
+* [MESTO](https://github.com/plushazavr/mesto): Interactive page where you can add photos, delete them and like them
+* [Webovio](https://github.com/plushazavr/Webovio): Landing page that can showcase your team's work
 
 ### Contact me
 
