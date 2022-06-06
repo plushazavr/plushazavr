@@ -22,7 +22,7 @@ I'm a beginner web-developer
 
 * [HOW TO LEARN](https://github.com/plushazavr/how-to-learn-main): Landing page about effective approaches to learning
 * [MESTO](https://github.com/plushazavr/mesto): Interactive page where you can add photos, delete them and like them
-* [Webovio](https://github.com/plushazavr/Webovio): Landing page that can showcase your team's work
+* [WEBOVIO](https://github.com/plushazavr/Webovio): Landing page that can showcase your team's work
 
 ### Contact me
 
