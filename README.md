@@ -8,12 +8,6 @@
 
 ***
 
-### 📖My studies
-* 2021-2022, Y.Praktikum, "Web-developer"
-
-* 2022, Udemy, "Front End Web Development Ultimate Course 2022"
-
-* 2022, Stepik, "Web Development for Beginners: HTML and CSS"
 
 ### My technology stack
 
