@@ -29,11 +29,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" width="40" height="40">&nbsp;
 
-### My project
-
-* [HOW TO LEARN](https://github.com/plushazavr/how-to-learn-main): Landing page about effective approaches to learning
-* [MESTO](https://github.com/plushazavr/mesto): Interactive page where you can add photos, delete them and like them
-* [WEBOVIO](https://github.com/plushazavr/Webovio): Landing page that can showcase your team's work
 
 ### My stats 
 ![Katya's GitHub stats](https://github-readme-stats.vercel.app/api?username=plushazavr&show_icons=true&theme=tokyonight)
