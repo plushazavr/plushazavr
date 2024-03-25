@@ -30,8 +30,9 @@
 
 ### Contact me
 
-<a href="https://t.me/plushazavr" target="blank" target="_blank"><img align="center" src="https://github.com/plushazavr/IMG/blob/3f8472985f47b6278b2782f6d98f3e76a0ba84b6/telegram.svg" alt="" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/ekaterina-kazantseva/" target="_blank"><img align="center" src="https://github.com/plushazavr/IMG/blob/3f8472985f47b6278b2782f6d98f3e76a0ba84b6/linkedin.svg" alt="" height="40" width="40" /></a> 
-<a href="mailto: dr.kazantseva.ekaterina@gmail.com" target="_blank"><img align="center" src="https://github.com/plushazavr/IMG/blob/3f8472985f47b6278b2782f6d98f3e76a0ba84b6/mail.svg" alt="" height="40" width="40" /></a>
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/plushazavr)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ekaterina-kazantseva)](https://www.linkedin.com/in/ekaterina-kazantseva/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dr.kazantseva.ekaterina@gmail.com)
+
 
 
