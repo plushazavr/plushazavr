@@ -38,7 +38,7 @@
 
 <a href="mailto: dr.kazantseva.ekaterina@gmail.com" target="_blank"><img align="center" src="https://github.com/plushazavr/IMG/blob/3f8472985f47b6278b2782f6d98f3e76a0ba84b6/mail.svg" alt="" height="40" width="40" /></a>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mp.danii@gmail.com)]("mailto: dr.kazantseva.ekaterina@gmail.com")
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dr.kazantseva.ekaterina@gmail.com)
 
 
 
