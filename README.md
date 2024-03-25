@@ -33,9 +33,14 @@
 
 <a href="https://t.me/plushazavr" target="blank" target="_blank"><img align="center" src="https://github.com/plushazavr/IMG/blob/3f8472985f47b6278b2782f6d98f3e76a0ba84b6/telegram.svg" alt="" height="40" width="40" /></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniella-milani/)](https://www.linkedin.com/in/ekaterina-kazantseva/")
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ekaterina-kazantseva/)](https://www.linkedin.com/in/ekaterina-kazantseva/")
 
 
 <a href="mailto: dr.kazantseva.ekaterina@gmail.com" target="_blank"><img align="center" src="https://github.com/plushazavr/IMG/blob/3f8472985f47b6278b2782f6d98f3e76a0ba84b6/mail.svg" alt="" height="40" width="40" /></a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto: dr.kazantseva.ekaterina@gmail.com)](mailto: dr.kazantseva.ekaterina@gmail.com)
+
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mp.danii@gmail.com)](mailto: dr.kazantseva.ekaterina@gmail.com)
+
 
 
